@@ -30,8 +30,6 @@ public class HiloEnemigos extends Thread {
             }
         }
     }
-
-
     private boolean noEnd(){
         return !fsa.isGameOver();
     }

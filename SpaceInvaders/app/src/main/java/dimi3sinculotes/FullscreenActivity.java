@@ -88,14 +88,18 @@ public class FullscreenActivity extends AppCompatActivity{
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        mp.stop();
+        if(mp!=null) {
+            mp.stop();
+        }
         setGameOver(true);
     }
 
     @Override
     protected void onPause() {
         super.onPause();
-        mp.stop();
+        if(mp!=null) {
+            mp.stop();
+        }
         setGameOver(true);
         finish();
     }

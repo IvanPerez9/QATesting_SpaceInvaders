@@ -20,7 +20,8 @@
             android:name="dimi3sinculotes.SpaceInvaders"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="SpaceInvaders"
-            android:theme="@style/AppTheme">
+            android:theme="@style/AppTheme"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -31,7 +32,8 @@
         <activity
             android:name="dimi3sinculotes.GameOverActivity"
             android:label="@string/title_activity_game_over"
-            android:theme="@style/AppTheme"></activity>
+            android:theme="@style/AppTheme"
+            android:screenOrientation="portrait"></activity>
     </application>
 
 </manifest>
