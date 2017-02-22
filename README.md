@@ -2,6 +2,7 @@
 
 Pruebas (Testing) de la aplicación SpaceInvaders.
 Calidad Software 2017.
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 Prueba
@@ -9,3 +10,6 @@ Prueba
 Pruebas 2 
 >>>>>>> CopiaMaster
 >Prueba 2
+=======
+sfsafsaf
+>>>>>>> origin/example1
