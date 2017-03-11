@@ -15,3 +15,6 @@ sfsafsaf
 >>>>>>> origin/example1
 
 Pruebas 4
+=======
+Volvemos a master
+>>>>>>> CopiaMaster
