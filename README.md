@@ -3,4 +3,4 @@
 Pruebas (Testing) de la aplicación SpaceInvaders.
 Calidad Software 2017.
 
-Pruebas 2 
+Volvemos a master
